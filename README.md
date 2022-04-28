@@ -31,14 +31,25 @@ consensus sequence (the representative reference).
 ### Demos
 ---
 -First Step:-
+
+---
 ![https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF1.gif]
+
 ---
 -Second Step:-
+
+---
 ![https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF2.gif]
+
 ---
 -Third Step:-
+
+---
 ![https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF3.gif]
+
+----
 ![https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF4.gif]
+
 ---
 
 ### Tools
