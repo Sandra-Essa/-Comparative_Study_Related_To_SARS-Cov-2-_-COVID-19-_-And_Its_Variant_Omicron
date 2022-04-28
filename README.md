@@ -1,48 +1,49 @@
 # Comparative study related to SARS-Cov-2 (COVID-19) and its variant Omicron.
 ---
-### Table of Contents
-You're sections headers will be used to reference location of destination.
+### Table of Contents:-
 
-- [Features1](#Features1)
-- [Demos1](#Demos1)
+- [Description](#Description)
+- [Demos](#Demos)
 - [Tools](#Tools)
 ---
 
-## Features1
+## Description
+First Step, Download 10 SARS-Cov-2 sequences from the Gana country from GISAID website:-
 
-Develop and application for musical instruments: 
+- Construct a consensus sequence from these sequences. At each sequence location, the
+nucleotide/amino acid of the consensus sequence will be the most dominant one across all
+the sequences at that location.
+- We will use this consensus sequence as a single representation for the reference sequences.
+---
+Second Step, Download 10 sequences for the SARS-Cov-2 Omicron variant:-
 
-- Open audio file
-- Real Time Plotting for music file
-- Spectrogram for Real Time plotting
-- Real Time Equlizer for 3 instrument with frequency range and Spectrogram
-- Interactive Drum with Equlizer for frequency range
-- Interactive Piano with Equlizer for frequency range
-- Interactive Guitar 
+- We will call them the case sequences.
+- Apply any multiple sequence alignment technique on these sequences.
 ---
-### Demos1
+Third Step, Ways of comparison:-
+
+- The average percentage of the chemical constituents (C, G, T, and A) and the CG content, if
+applicable, between the reference sequences and the case sequences.
+- Extract the dissimilar regions/columns between the alignment of the case sequences and the
+consensus sequence (the representative reference).
 ---
-- Open audio file
-- Real Time Plotting for music file
-- Spectrogram for Real Time plotting
-- Real Time Equlizer for 3 instrument with frequency range and Spectrogram
+
+### Demos
 ---
-![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF1.gif)
-----
--Interactive Drum with Equlizer for frequency range:-
+-First Step:-
+![https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF1.gif]
 ---
-![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF2.gif)
-----
--Interactive Piano with Equlizer for frequency range:-
+-Second Step:-
+![https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF2.gif]
 ---
-![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF3.gif)
-----
--Interactive Guitar:-
+-Third Step:-
+![https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF3.gif]
+![https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF4.gif]
 ---
-![](https://github.com/Sandra-Essa/Music_Equlizer_With_Interactive_Instruments/blob/main/GIF/DSP_GIF4.gif)
-----
+
 ### Tools
 ----
-- Python
-- Qt Designer
+- Python - Jupyter Notebook
+- Fasta Website
+- GISAID website
 ----
