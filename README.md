@@ -13,7 +13,7 @@ First Step, Download 10 SARS-Cov-2 sequences from the Gana country from GISAID w
 - Construct a consensus sequence from these sequences. At each sequence location, the
 nucleotide/amino acid of the consensus sequence will be the most dominant one across all
 the sequences at that location.
-- We will use this consensus sequence as a single representation for the reference sequences.
+- We will use this consensus sequence as a single representation for the reference sequences (Profile Matrix).
 ---
 Second Step, Download 10 sequences for the SARS-Cov-2 Omicron variant:-
 
@@ -45,7 +45,7 @@ consensus sequence (the representative reference).
 -Third Step:-
 
 ---
-![}(https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF3.gif)
+![](https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF3.gif)
 
 ----
 ![](https://github.com/Sandra-Essa/Comparative_Study_Related_To_SARS_COVID-19_And_Its_Variant_Omicron/blob/main/GIF/BioInformatics_GIF4.gif)
